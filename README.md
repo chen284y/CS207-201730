@@ -50,6 +50,9 @@ Bill of Materials:
 
 Build Instructions
 ==================
+
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0001.JPG" />
+
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0001.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0546.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0547.JPG" />
