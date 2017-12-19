@@ -52,7 +52,7 @@ Build Instructions
 ==================
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0546.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0547.JPG" />
-<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/Screen Shot 2017-12-18 at 8.55.36 PM.png" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.PNG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0550.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0551.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0552.JPG" />
