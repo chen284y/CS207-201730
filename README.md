@@ -47,3 +47,12 @@ Bill of Materials:
 * 6 x 220 ohm resistor
 * 1 x breadboard
 * 1 x Arduino Uno
+
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0550.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0551.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0552.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0553.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0554.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0555.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0556.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0557.JPG" />
