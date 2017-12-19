@@ -52,7 +52,7 @@ Bill of Materials:
 Build Instructions
 ==================
 <p>
-<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0001.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/master/img/IMG_0001.JPG" />
 </p><p>
 Here should be another image of instruction, but the image cannot show correctly. The fritzing graph can be found in img/ folder name as IMG_0001.JPG . Or the img1.jpg are the same file.</p><p>
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.JPG" />
