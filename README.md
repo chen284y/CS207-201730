@@ -48,6 +48,8 @@ Bill of Materials:
 * 1 x breadboard
 * 1 x Arduino Uno
 
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0546.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0547.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0550.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0551.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0552.JPG" />
