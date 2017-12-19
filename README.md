@@ -52,7 +52,9 @@ Build Instructions
 ==================
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0546.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0547.JPG" />
-<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.png" />
+![alt text][pic2]
+
+[pic2]: https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.png "Logo Title Text 2"
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0550.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0551.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0552.JPG" />
