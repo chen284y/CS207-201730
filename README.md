@@ -11,6 +11,7 @@ That means if there are not many vehicles in the first choice, the first way wil
 2. 23Ave &Albert St</p><p>
 3. Albert st & Regina Ave</p><p>
 The status is represented from no vehicle to highest vehicle number by highest intensity with green LED to highest intensity with red LED. And also it will processes the data to generates the best way. The arrow controlled by our SERVO will point to the best way.</p>
+
   
 Repository Contents
 ============
@@ -52,8 +53,9 @@ Build Instructions
 ==================
 
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0001.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.JPG" />
+<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/img1.jpg" />
 
-<img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0001.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0546.JPG" />
 <img src="https://raw.githubusercontent.com/chen284y/CS207-201730/img/IMG_0547.JPG" />
 
@@ -64,6 +66,7 @@ Usage
 Honestly, because my INPUT part is input data from internet, there are not much to do as a user. However, I'd like to discuss about how the users can find this project useful. Maybe when you look at this project you will think this is a piece of silly, useless work, but actually the idea might be useful for AI driving.</p><p>
 I don't have enough information for the newest GPS system, but in my old GPS and my GPS in cellphone, they will only consider two factors when choosing way for drivers : Firstly, shortest distance. And secondly, shortest time --- this actually means choose mostly on wider road. None of my GPS will consider data like traffic status and construction areas. The idea of my project will be useful in GPS system, it shows how easy I can get open traffic status data from googlemap, why our GPS company does not get use of it?</p><p>
 Furthermore, AI drive vehicles technology becomes mature in these days. There are many AI vehicles is already driving on road. If we want to sit in our car but let it decide which way to go, we definitely do not want our car take us into traffic jamming.</p>
+
 
 Team
 =====
